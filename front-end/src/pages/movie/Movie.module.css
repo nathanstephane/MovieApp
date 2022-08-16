@@ -1,0 +1,22 @@
+.Image {
+    width: 100%;
+    min-height: 400px;
+}
+
+.Title {
+    text-align: center;
+    margin: 10px 0;
+    height: 25px;
+    overflow: hidden;
+}
+
+.rating_btn{
+    position: relative;
+    left: 10px;
+}
+
+.wacth_btn{
+    background-color: black !important;
+    border: none;
+    color: white !important;
+}

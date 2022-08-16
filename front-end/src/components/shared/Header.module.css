@@ -1,0 +1,32 @@
+.Brand {
+    
+    font-family: "sans-serif";
+    padding: 0 12px ;
+    
+}
+
+.bg_nav{
+    background-color: steelblue;
+}
+
+.nav_text{
+    color: white !important;
+}
+
+.nav_logo{
+    height: 65px;
+    margin-left: 50px;
+   
+}
+
+.nav_logo img {
+    height: 100%;
+    width: 100%;
+}
+.Link {
+    display: inline-block;
+    text-decoration: none !important;
+    color: #ffffff;
+    margin-right: 20px;
+    cursor: pointer;
+}
